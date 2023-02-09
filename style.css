@@ -12,3 +12,7 @@ p {
   font-family: "Poppins", sans-serif;
   color: #eeeae5;
 }
+
+link {
+  display: inline;
+}
