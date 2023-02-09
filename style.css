@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #75a7ad;
+}
+h1 {
+  font-family: "Poppins", sans-serif;
+  color: #005b6e;
+}
+p {
+  font-family: "Poppins", sans-serif;
+  color: #eeeae5;
+}
